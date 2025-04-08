@@ -23,7 +23,7 @@ require("login_check.php");
     class="navbar navbar-expand-lg bg-body-tertiary sticky-top top-0"
     style="background-color:rgb(223, 219, 213)">
     <div class="container-fluid p-2" style="background-color:rgb(243, 222, 191)">
-      <a class="navbar-brand" href="#">FavFood</a>
+      <a class="navbar-brand" href="#">FoodExpress</a>
       <button
         class="navbar-toggler"
         type="button"
